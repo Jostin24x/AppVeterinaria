@@ -1,0 +1,63 @@
+Nombre: XX
+Propietario: AA
+Raza: SS
+Fecha: 03/04/2024
+Sexo: Macho
+Especie: Felino
+
+Nombre: SS
+Propietario: DD
+Raza: AA
+Fecha: 03/04/2024
+Sexo: Macho
+Especie: Canino
+
+Nombre: AQ
+Propietario: WS
+Raza: ED
+Fecha: 12/04/2024
+Sexo: Hembra
+Especie: Canino
+
+Nombre: nilbert
+Propietario: ha
+Raza: miguel
+Fecha: 16/04/2008
+Sexo: Hembra
+Especie: Felino
+
+Nombre: ewr
+Propietario: ewr
+Raza: ewq
+Fecha: 02/04/2024
+Sexo: Macho
+Especie: Canino
+
+Nombre: Kenyi
+Propietario: upla
+Raza: pitbull
+Fecha: 13/04/2018
+Sexo: Hembra
+Especie: Canino
+
+Nombre: Kenyi
+Propietario: upla
+Raza: pitbull
+Fecha: 13/04/2018
+Sexo: Hembra
+Especie: Canino
+
+Nombre: MIGUEL
+Propietario: JOSE
+Raza: WASA
+Fecha: 10/04/2020
+Sexo: Hembra
+Especie: Canino
+
+Nombre: HH
+Propietario: JKDSKJ
+Raza: HHGUIJ
+Fecha: 10/04/2024
+Sexo: Hembra
+Especie: Felino
+
